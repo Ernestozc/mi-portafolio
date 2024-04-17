@@ -1,5 +1,5 @@
-#Proyecto de mi portafolio
+#Proyecto de Mi Portafolio
 
 lorem impum
 
-Color empresarial : color: rgb(13, 103, 138);
+Color empresarial : color: 000032
